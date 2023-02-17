@@ -1,13 +1,13 @@
+
 #include <stdio.h>
 /**
- *  * main - Entry point,
- *   * Print a line of code using puts
- *    * ends with a new line
- *     *
- *      * Return: Always 0 (Success)
- *       */
+ * main - prints with proper grammer
+ *
+ * Return: always return 0.
+ */
 int main(void)
 {
-		puts("\"Programming is like building a multilingual puzzle");
+		printf("with proper grammar, but the outcome is a piece of art,\n");
+			/* always return 0*/
 			return (0);
 }
