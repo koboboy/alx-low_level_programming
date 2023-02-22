@@ -16,5 +16,3 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
-Footer
-© 2023 GitHub, Inc.
